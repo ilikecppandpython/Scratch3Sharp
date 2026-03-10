@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <LangVersion>14</LangVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Scratch3Sharp.Core</RootNamespace>
+        <Title>Scratch3Sharp.Core</Title>
+        <Description>A package that handles basic communication with the Scratch 3 API. Covers user operations and project operations (without login).</Description>
+    </PropertyGroup>
+
+</Project>
