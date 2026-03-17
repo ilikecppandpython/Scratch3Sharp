@@ -1,7 +1,5 @@
 ﻿using System.Runtime.CompilerServices;
 
-[assembly: InternalsVisibleTo("Tests")]
-
 namespace Scratch3Sharp.Core;
 
 internal static class HttpClientHelper
